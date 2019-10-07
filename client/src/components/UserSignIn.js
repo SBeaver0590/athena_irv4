@@ -30,7 +30,7 @@ export default class UserSignIn extends Component {
               <React.Fragment>
                 <FormField 
                   fieldName="emailAddress" 
-                  label="Email Addrss" 
+                  label="Email Address" 
                   value={emailAddress} 
                   handleChange={this.change} />
                 <FormField 
